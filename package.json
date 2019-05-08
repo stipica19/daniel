@@ -1,0 +1,19 @@
+{
+  "name": "black_version",
+  "version": "1.0.0",
+  "description": "v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stipica klepic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemailer": "^6.1.1",
+    "nodemailer-mailgun-transport": "^1.4.0",
+    "nodemon": "^1.19.0"
+  }
+}
